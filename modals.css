@@ -13,10 +13,11 @@ other contributors to USRBG.
 
 */
 @import url('https://raw.githubusercontent.com/poob1/testing/main/test.css');
-.root-SR8cQa {
+.root-flex-1xMQg5 flex-1O1GKY vertical-V37hAW flex-1O1GKY directionColumn-35P_nr justifyStart-2NDFzi alignStretch-DpGPf3 noWrap-3jynv6 root-SR8cQa {
   transform: translateZ(0);
 }
-.header-QKLPzZ .wrapper-3t9DeA::before {
+topSectionNormal-2-vo2m{
+.header-QKLPzZ avatar-3EQepX wrapper-3t9DeA{
   content: '';
   position: fixed;
   top: 0;
@@ -28,7 +29,7 @@ other contributors to USRBG.
   background: var(--user-background) center/cover no-repeat;
   -webkit-mask: linear-gradient(black, transparent 80%);
 }
-
+}
 .headerInfo-30uryT,
 .tabBarItem-1b8RUP,
 .activity-1ythUs {
